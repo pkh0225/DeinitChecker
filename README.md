@@ -1,6 +1,6 @@
 # 🚥 Deinit Manager
 
-[![SwiftPM compatible](https://img.shields.io/badge/SwiftPM-compatible-brightgreen.svg)](https://swift.org/package-manager/)
+[![SwiftPM compatible](https://img.shields.io/badge/SwiftPM-compatible-brightgreen.svg)](https://swift.org/package-manager/)[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 목표
 - 모든 푸시&팝 이벤트에 대해 직관적으로 메모리 해제를 확인하세요!
